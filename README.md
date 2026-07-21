@@ -4,7 +4,7 @@ A desktop application for managing student records, built with **C#** and **Wind
 
 ## 📷 Screenshot
 
-![Student Management System](image/IDcard.png)
+![Student Management System](Student_Management/image/IDcard.png)
 
 ## 📖 About the Project
 
