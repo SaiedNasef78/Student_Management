@@ -9,3 +9,14 @@ C:\Users\SH\source\repos\Student_Management\bin\Debug\Student_Management.pdb
 C:\Users\SH\source\repos\Student_Management\obj\Debug\Student_Management.exe
 C:\Users\SH\source\repos\Student_Management\obj\Debug\Student_Management.pdb
 C:\Users\SH\source\repos\Student_Management\obj\Debug\Student_Management.frmPrintCard.resources
+C:\Users\SH\Programing\Portfolio\Student_Management\bin\Debug\Student_Management.exe.config
+C:\Users\SH\Programing\Portfolio\Student_Management\bin\Debug\Student_Management.exe
+C:\Users\SH\Programing\Portfolio\Student_Management\bin\Debug\Student_Management.pdb
+C:\Users\SH\Programing\Portfolio\Student_Management\obj\Debug\Student_Management.csproj.AssemblyReference.cache
+C:\Users\SH\Programing\Portfolio\Student_Management\obj\Debug\Student_Management.Form1.resources
+C:\Users\SH\Programing\Portfolio\Student_Management\obj\Debug\Student_Management.frmPrintCard.resources
+C:\Users\SH\Programing\Portfolio\Student_Management\obj\Debug\Student_Management.Properties.Resources.resources
+C:\Users\SH\Programing\Portfolio\Student_Management\obj\Debug\Student_Management.csproj.GenerateResource.cache
+C:\Users\SH\Programing\Portfolio\Student_Management\obj\Debug\Student_Management.csproj.CoreCompileInputs.cache
+C:\Users\SH\Programing\Portfolio\Student_Management\obj\Debug\Student_Management.exe
+C:\Users\SH\Programing\Portfolio\Student_Management\obj\Debug\Student_Management.pdb

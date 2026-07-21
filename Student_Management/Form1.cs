@@ -205,5 +205,10 @@ namespace Student_Management
         {
 
         }
+
+        private void groupBox3_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
